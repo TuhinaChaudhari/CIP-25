@@ -15,3 +15,15 @@ Clarity of mind is not just a state, it's a skill! This tool was created to brid
 - Encourages them to draw these using **color palettes that calm the mind**
 - Helps **visualize inner states** and access **non-verbal processing**
 
+## 🚀 How to Run This Project
+
+### Requirements
+- Python 3.x
+- [`graphics.py`](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1238/references/graphics/) from Stanford's CS106A
+
+### Files:
+- `BrainDump.py` → Journaling and thought-prioritization tool
+- `AdultColoringBook.py` → Subconscious word drawing and reflection tool
+
+
+
