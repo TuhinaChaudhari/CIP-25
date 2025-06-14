@@ -1,6 +1,6 @@
 # CIP-25
 
-#UNMIND: A mental wellness reflection tool
+# UNMIND: A mental wellness reflection tool
 Clarity of mind is not just a state, it's a skill! This tool was created to bridge technology and mindfulness, especially for those juggling creative, cognitive, or emotionally demanding work.
 
 
